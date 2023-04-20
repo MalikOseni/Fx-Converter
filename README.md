@@ -11,6 +11,8 @@ git clone https://github.com/MalikOseni/Fx-Converter.git
 cd Fx-Converter
 open index.html
 
+![fx converter markup](smartmockups_lgpd5y26.jpg)
+
 # How to Use
 To use the fx-converter, follow these steps:
 
